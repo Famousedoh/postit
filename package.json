@@ -4,6 +4,8 @@
   "description": "A mini social media REST API with Node js, Express, Mongodb and mongoose",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Famous Edoh",

@@ -1,4 +1,6 @@
-postit-restapi
+#postit-restapi
+
+##folder structure
 ├── package-lock.json
 ├── package.json
 ├── index.js

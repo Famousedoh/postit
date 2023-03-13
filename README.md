@@ -1,5 +1,5 @@
 #postit-restapi: Posit is a mini social media restAPI built with Express, Node, Mongoose and Mongodb
-###folder structure
+> ###folder structure
 ```sh
 ├── package-lock.json
 ├── package.json

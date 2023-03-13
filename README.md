@@ -23,10 +23,10 @@ Clone the repository & change to the cloned folder
 
 Using HTTPS
 ```sh
-git clone https://github.com/Famousedoh/postit.git && cd famous-rentals
+git clone https://github.com/Famousedoh/postit.git && cd postit
 Using SSH
 ```sh
-git clone git@github.com:famousedoh/postit.git && cd famous-rentals
+git clone git@github.com:famousedoh/postit.git && cd postit
 Install dependencies
 ```
 ```

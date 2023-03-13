@@ -29,6 +29,7 @@ Using SSH
 git clone git@github.com:famousedoh/postit.git && cd famous-rentals
 Install dependencies
 ```
+```
 npm i
 Start the server
 
@@ -38,6 +39,8 @@ npm run dev
 Production
 
 npm start
+```
+```
 API Endpoints
 
 GET /api/users => Get all users
@@ -50,7 +53,8 @@ POST /api/users => Add a new user
 GET /api/users/:id Get a post
 PUT /api/users/:id => Update a user
 DELETE /api/users/:id => Delete a user
-
+```
+```
 User schema
 {
   id: int,

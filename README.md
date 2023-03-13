@@ -1,6 +1,7 @@
 #postit-restapi
 
-##folder structure
+###folder structure
+```sh
 ├── package-lock.json
 ├── package.json
 ├── index.js

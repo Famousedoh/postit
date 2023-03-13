@@ -1,7 +1,6 @@
 #postit-restapi
-
 ###folder structure
-```sh
+```
 ├── package-lock.json
 ├── package.json
 ├── index.js
@@ -14,21 +13,22 @@
     |---- posts.js
     |--- comments.js
     |----auth.js
-    s
+  
 package.json and package-lock.json contain metadata about our project.
 index.js is the entry point and contains the logic our server to initialize and start it.
 
-Getting started
+###Getting started
+```
 Clone the repository & change to the cloned folder
 
 Using HTTPS
-
-git clone https://github.com/Famousedoh/famous-rentals.git && cd famous-rentals
+```sh
+git clone https://github.com/Famousedoh/postit.git && cd famous-rentals
 Using SSH
-
+```sh
 git clone git@github.com:famousedoh/postit.git && cd famous-rentals
 Install dependencies
-
+```
 npm i
 Start the server
 
